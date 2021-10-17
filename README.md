@@ -24,8 +24,8 @@ ways to add vpn in our device and other ways to turn off inside and outside lock
     <p>
         <ul>
             <li><a href="https://github.com/amir-valizadeh/vpn/blob/main/01.%20simplest%20way.md">راحتترین راه (اگه تازه نصب کردین اینو  راه بندازین که بتونین  به شبکه ازاد دسترسی داشته باشید موقتا)</a></li>
-            <li><a href="https://github.com/amir-valizadeh/vpn/blob/main/01.%20proxy%20and%20vpn.md">فرق پراکسی و  وی پی ان(مهم حتما بخونید) </a></li>
-            <li><a href="https://github.com/amir-valizadeh/vpn/blob/main/01.%20openvpn.md">openvpn - سطح: متوسط</a></li>
+            <li><a href="https://github.com/amir-valizadeh/vpn/blob/main/02.%20proxy%20and%20vpn.md">فرق پراکسی و  وی پی ان(مهم حتما بخونید) </a></li>
+            <li><a href="https://github.com/amir-valizadeh/vpn/blob/main/03.%20openvpn.md">openvpn - سطح: متوسط</a></li>
             <li><a href="">pptp - سطح:متوسط</a></li>
             <li><a href="">p2pp - سطح:متوسط</a></li>
             <li><a href="">wiregourd -سطح:متوسط</a></li>
