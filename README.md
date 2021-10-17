@@ -23,14 +23,14 @@ ways to add vpn in our device and other ways to turn off inside and outside lock
     <h2>📄 لیست مطالب</h2>
     <p>
         <ul>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/01.%20Blocks.md">راحتترین راه (اگه تازه نصب کردین اینو  راه بندازین که بتونین  به شبکه ازاد دسترسی داشته باشید موقتا)</a></li>
-            <li><a href="amir-valizadeh/vpn/01. simplest way.md">فرق پراکسی و  وی پی ان(مهم حتما بخونید) </a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/03.%20Transactions.md">openvpn - سطح: متوسط</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/04.%20Outputs.md">pptp - سطح:متوسط</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/05.%20Output%20Locks.md">p2pp - سطح:متوسط</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/06.%20Keys%20%26%20Addresses.md">wiregourd -سطح:متوسط</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/07.%20Private%20Keys.md">command-line vpns - سطح:متوسط</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/08.%20Public%20Keys.md">GUI apps for vpn - اسون</a></li>
+            <li><a href="https://github.com/amir-valizadeh/vpn/blob/main/01.%20simplest%20way.md">راحتترین راه (اگه تازه نصب کردین اینو  راه بندازین که بتونین  به شبکه ازاد دسترسی داشته باشید موقتا)</a></li>
+            <li><a href="https://github.com/amir-valizadeh/vpn/blob/main/01.%20proxy%20and%20vpn.md">فرق پراکسی و  وی پی ان(مهم حتما بخونید) </a></li>
+            <li><a href="https://github.com/amir-valizadeh/vpn/blob/main/01.%20openvpn.md">openvpn - سطح: متوسط</a></li>
+            <li><a href="">pptp - سطح:متوسط</a></li>
+            <li><a href="">p2pp - سطح:متوسط</a></li>
+            <li><a href="">wiregourd -سطح:متوسط</a></li>
+            <li><a href="">command-line vpns - سطح:متوسط</a></li>
+            <li><a href="">GUI apps for vpn - اسون</a></li>
         </ul>
     </p>
     <h2>📞 ارتباط با من</h2>
